@@ -1,4 +1,4 @@
 baseurl = "https://ehab.it/"
 languageCode = "en-us"
 title = "ehab.it"
-canonifyurls: true
+canonifyurls = true
